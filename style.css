@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+div {
+  text-align: center;
+  margin: auto;
+}
+
+.img {
+  width: 80%;
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20%;
+
+}
+
+img {
+  width: 120%;
+  min-width: 60px;
+
+}
